@@ -1,0 +1,6 @@
+we can just find out the difference really quick which will take us long time if we use our effort to find the typo error.
+
+the pro is that we could minimize the memory.
+the con is that we need to save by ourselves.
+
+because the git always save the program which alway contain multiple files.
